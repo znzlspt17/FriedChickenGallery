@@ -8,10 +8,10 @@
 </head>
 <body>
 <<<<<<< HEAD
-	<h1>TESTpush 되나요</h1>
-=======
 	<h1>엄마가 보고플땐</h1>
 	경로가꼬임
->>>>>>> 29aa52219510824d8ea9cdc5604b0adaf0d3f903
+=======
+	<h1>TESTpush 되나요</h1>
+>>>>>>> 230dcae2bf77eb1c3c4b132ed27de7800b3135b8
 </body>
 </html>
